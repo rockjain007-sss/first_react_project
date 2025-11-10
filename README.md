@@ -4,7 +4,7 @@
 
 Check running project on Vercel: https://firstreactprojecttest1.vercel.app/
 
-![Project Screenshot](https://ik.imagekit.io/py9r3vcv5/project-in-action.png?updatedAt=1762774734853)
+![Project Screenshot](https://ik.imagekit.io/py9r3vcv5/project-in-action.jpg?updatedAt=1762774943616)
 
 ## Install Dependencies
 `yarn install` or `npm install`
