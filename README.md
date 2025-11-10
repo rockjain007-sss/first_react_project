@@ -2,6 +2,8 @@
 
 ![Stack](https://ik.imagekit.io/py9r3vcv5/stack.png?updatedAt=1762772835070)
 
+Check running project on Vercel: https://firstreactprojecttest1.vercel.app/
+
 ## Install Dependencies
 `yarn install` or `npm install`
 
