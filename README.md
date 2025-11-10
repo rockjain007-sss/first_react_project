@@ -1,6 +1,6 @@
 # First public react project with Create React App, Bootstrap, MockForMe, GitHub, Vercel.
 
-![Stack]([http://url/to/img.png](https://ik.imagekit.io/py9r3vcv5/stack.png?updatedAt=1762772835070)
+![Stack](https://ik.imagekit.io/py9r3vcv5/stack.png?updatedAt=1762772835070)
 
 ## Run Project using `yarn start` OR `npm start`
 
