@@ -2,6 +2,9 @@
 
 ![Stack](https://ik.imagekit.io/py9r3vcv5/stack.png?updatedAt=1762772835070)
 
+## Install Dependencies
+`yarn install` or `npm install`
+
 ## Run Project 
 `yarn start` OR `npm start`
 
